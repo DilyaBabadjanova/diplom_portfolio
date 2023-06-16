@@ -8,8 +8,14 @@
   
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``SoapUI``, ``Miro``, ``Сheckvist``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
+
+## Знание иностранных языков
+
+Русский на уровне носителя
+Английский 
+Узбекский на уровне разговорного
 
 
 

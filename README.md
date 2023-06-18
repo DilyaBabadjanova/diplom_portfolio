@@ -49,7 +49,7 @@ href="https://github.com/dbabadjanova/diplom_portfolio/blob/project1/%D0%9F%D0%9
 
 
 
- <p>Выводы (итоги):<p>
+ <p>Выводы:<p>
 <ol>
   <li>Проведены все виды тестирования, указанные в тест-плане</li>
   <li>Заведены баг-репорты</li>

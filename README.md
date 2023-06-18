@@ -45,8 +45,8 @@
 </a>
 > <a 
 href="https://github.com/dbabadjanova/diplom_portfolio/blob/project1/%D0%9F%D0%9B%D0%90%D0%9D.pdf">Тест-план</a>
->
-> 
+
+
  <p>Выводы (итоги):<p>
 <ol>
   <li>Проведены все виды тестирования, указанные в тест-плане</li>

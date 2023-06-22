@@ -7,8 +7,8 @@
 
   
 ## Навыки и технологии
-``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
-``SoapUI``, ``Miro``, ``Сheckvist``, ``Charles``, ``Git``, ``Chrome DevTools``.
+``Jira``,``Qase.io``,``SQL``,`` Postman``,``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Miro``, ``Sitechko``, ``Charles``, ``Mockoon``, ``Chrome DevTools``.
 
 
 ## Знание иностранных языков
